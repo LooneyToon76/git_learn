@@ -3,3 +3,6 @@ Learning Git and GitHub
 
 
 This is a change I am testing to see the version updated
+
+This is a change made in a main branch
+The changes are tracked in green
